@@ -8,4 +8,4 @@ class CalculateSalary{
    
    system.out.println("Total Salary"+(basic+hra+ta));
    }
-  }
+  }.
